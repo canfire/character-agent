@@ -1,0 +1,23 @@
+# Character-Agent 依赖
+# 仅保留蒸馏引擎和记忆系统所需
+
+# Memory 层基础设施
+mem0ai
+
+# LLM
+openai
+
+# 配置和数据处理
+pydantic
+pydantic-settings
+pyyaml
+
+# Qdrant 客户端
+qdrant-client
+
+# 工具
+httpx
+
+# MCP Server
+mcp
+
